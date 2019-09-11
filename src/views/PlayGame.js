@@ -46,8 +46,8 @@ const styles = StyleSheet.create({
 
 class PlayGame extends Component {
 
-  POINTS_TO_WIN = 5;
-  GAME_TIME_IN_SECONDS = 10;
+  POINTS_TO_WIN = 55;
+  GAME_TIME_IN_SECONDS = 60;
 
   constructor(props) {
     super(props);
